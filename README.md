@@ -8,6 +8,6 @@ Any 3d printing passionate and ambitious Ai3M user, once has passed the 3d print
 
 The 45mm Ai3M "FoX" ZX axis design is developed for the users that would prefer the second option. The design intends to solve most of the mentioned Ai3M mechanical problems and returns the printer into the 45mm X-gantry i3 family, opening the large world of dedicated i3 45mm solutions - exemplified with a 45mm X-carriage derived from Prusa MK3 R2 carriage and the Bondtech direct drive upgrade extruder made for Prusa MK2-MK3. Excepting the extruder, the costs for this modification are in the range of 15-20€ or equivalent plus printing material/costs.  
 
-The models included in the main step file are partly gathered from various sources - Grabcad, Thingiverse, Github etc, partly new designed. A great and renewed "Thank you" for everyone who spent time to digitize this printer and has shared the models.  
+The models included in the main step file are partly gathered from various sources - Grabcad, Thingiverse, Github etc, partly new designed. A great, renewed "Thank you" for everyone who spent time to digitize these models.  
 
-Why "FoX"? - because the FoX has outsmart the Bear :)
+Why "FoX"? - because the FoX has outsmarted the Bear :)
