@@ -11,6 +11,6 @@ The 45mm Ai3M "FoX" ZX axis design is developed for the users that would prefer 
 Still reading after the "Why" and "How much" questions have been answered? Then the last question: "How?" - and the answer is: "not really easy". For an average user this modification should be classified as "difficult". More details and information about this modification provided on Thingiverse: 
 https://www.thingiverse.com/thing:4444415
 
-The models included in the main step file are partly gathered from various sources - Grabcad, Thingiverse, Github etc, partly new desigs. A great, renewed "Thank you" for everyone who spent time to digitize these models.  
+Some of the models included in the main step file are  gathered from various sources - Grabcad, Thingiverse, Github etc. A great, renewed "Thank you" for everyone who spent time to digitize these models.
 
 Why "FoX"? - because the FoX has outsmarted the Bear :)
